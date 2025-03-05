@@ -11,25 +11,6 @@
     border: 5px solid rgb(255, 255, 255);
 }
 
-#smile{
-    background-color: rgb(150, 136, 146);
-    margin-top: -700px;
-    margin-left: 300px;
-    width: 150px;
-    height: 150px;
-    border-radius: 10px;
-    border: 5px solid rgb(255, 255, 255);
-    animation: float 3s ease-in-out infinite;
-}
-
-#smile:hover{
-    background-color: rgb(131, 123, 127);  
-}
-
-#smile:active{
-    transform: translateY(2px); 
-}
-
 #forward{
     background-color: rgb(111, 105, 108);
     margin-top: 600px;
