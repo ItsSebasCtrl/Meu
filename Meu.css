@@ -23,8 +23,7 @@
 }
 
 #title{
-    font-style: italic;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-top: 200px;
-    color: white;
+    margin-top: 300px;
+    color: rgb(0, 0, 0);
 }
