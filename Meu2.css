@@ -1,5 +1,7 @@
 #background{
-    background-color: rgb(202, 81, 122);
+    background-image: url('Fondo.png');
+    background-size: cover;
+}
     
 }
 
