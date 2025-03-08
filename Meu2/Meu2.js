@@ -3,5 +3,5 @@ document.getElementById('forward').addEventListener('click', function() {
 });
 
 document.getElementById('back').addEventListener('click', function() {
-    window.location.href = "https://itssebasctrl.github.io/Meu/";
+    window.location.href = "https://itssebasctrl.github.io/Meu/index.html";
 });
