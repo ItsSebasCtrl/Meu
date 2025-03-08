@@ -3,5 +3,5 @@ document.getElementById('forward').addEventListener('click', function() {
 });
 
 document.getElementById('back').addEventListener('click', function() {
-    window.location.href = "Meu/index.html";
+    window.location.href = "index.html";
 });
