@@ -1,0 +1,165 @@
+#background{
+    background-image: url('/Icons/Fondo.png');
+    background-size: cover;
+}
+
+#background2{
+    background-color: rgb(134, 115, 128);
+    margin-top: 80px;
+    width: 500px;
+    height: 100px;
+    border-radius: 10px;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+#forward{
+    background-color: rgb(180, 153, 153);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    width: 130px;
+    font-family: "Sigmar", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    margin: 10px;
+}
+
+#back{
+    background-color: rgb(180, 153, 153);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    font-size: 20px;
+    width: 130px;
+    font-family: "Sigmar", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    margin: 10px;
+}
+
+#back:hover{
+    background-color: rgb(131, 123, 127); 
+}
+
+#back:active{
+    transform: translateY(2px); 
+}
+
+#forward:hover{
+    background-color: rgb(131, 123, 127); 
+}
+
+#forward:active{
+    transform: translateY(2px); 
+}
+
+#title{
+    margin-top: 25px;
+    color: white;
+    font-family: "Sigmar", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+#first{
+    margin: 100px;
+    font-family: "Sigmar", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    border-radius: 10px;
+    margin-top: 120px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: 40px;
+    background-color: rgb(134, 115, 128);
+}
+
+#first:hover{
+    background-color: rgb(131, 123, 127); 
+}
+
+#first:active{
+    transform: translateY(2px); 
+}
+
+#second{
+    margin: 100px;
+    font-family: "Sigmar", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    border-radius: 10px;
+    margin-top: 120px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: 40px;
+    background-color: rgb(134, 115, 128);
+}
+
+#second:hover{
+    background-color: rgb(131, 123, 127); 
+}
+
+#second:active{
+    transform: translateY(2px); 
+}
+
+#third{
+    margin: 100px;
+    font-family: "Sigmar", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    border-radius: 10px;
+    margin-top: 60px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: 40px;
+    background-color: rgb(134, 115, 128);
+}
+
+#third:hover{
+    background-color: rgb(131, 123, 127); 
+}
+
+#third:active{
+    transform: translateY(2px); 
+}
+
+#fourth{
+    margin: 100px;
+    font-family: "Sigmar", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    border-radius: 10px;
+    margin-top: 60px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: 40px;
+    background-color: rgb(134, 115, 128);
+}
+
+#fourth:hover{
+    background-color: rgb(131, 123, 127); 
+}
+
+#fourth:active{
+    transform: translateY(2px); 
+}
+
+#bottom{
+    margin-top: 10px;
+}
+
+#cloudy{
+    width: 200px;
+    margin-top: -80px;
+}
+
+#cloudybutton{
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    width: 200px;
+    height: auto;
+    display: block;
+    border: none;
+    outline: none;
+}
