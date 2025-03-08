@@ -7,7 +7,7 @@ document.getElementById('forward').addEventListener('click', function() {
 });
 
 document.getElementById('first').addEventListener('click', function() {
-    window.location.href = "https://itssebasctrl.github.io/Meu/Sentimientos/Sentimientos-1.html";
+    window.location.href = "https://itssebasctrl.github.io/Meu/Sentimientos/Sentimiento-1/Sentimiento1.html";
 });
 
 document.getElementById('second').addEventListener('click', function() {
