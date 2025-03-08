@@ -23,7 +23,7 @@ document.getElementById('fourth').addEventListener('click', function() {
 });
 
 document.getElementById('cloudybutton').addEventListener('click', function() {
-    window.location.href = "/Secreto/Secreto.html";
+    window.location.href = "https://itssebasctrl.github.io/Meu/Secreto/Secreto.html";
 });
 
 
