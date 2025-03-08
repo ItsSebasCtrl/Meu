@@ -1,9 +1,9 @@
 document.getElementById('back').addEventListener('click', function() {
-    window.location.href = "/Meu2/Meu2.html";
+    window.location.href = "https://itssebasctrl.github.io/Meu/Meu2/Meu2.html";
 });
 
 document.getElementById('forward').addEventListener('click', function() {
-    window.location.href = "/Meu4/Meu4.html";
+    window.location.href = "https://itssebasctrl.github.io/Meu/Meu4/Meu4.html";
 });
 
 document.addEventListener('DOMContentLoaded', function() {
