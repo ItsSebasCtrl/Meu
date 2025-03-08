@@ -1,0 +1,63 @@
+#background{
+    background-image: url('/Icons/Fondo.png');
+    background-size: cover;
+}
+
+#background2{
+    background-color: rgb(134, 115, 128);
+    margin-top: 55px;
+    width: 500px;
+    height: 900px;
+    border-radius: 10px;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+#back{
+    background-color: rgb(180, 153, 153);
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    font-size: 20px;
+    width: 130px;
+    font-family: "Sigmar", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+#back:hover{
+    background-color: rgb(131, 123, 127); 
+}
+
+#back:active{
+    transform: translateY(2px); 
+}
+
+#title{
+    font-family: "Sigmar", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 20px;
+    color: white;
+}
+
+#text{
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+}
+
+#text2{
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+}
+
+.small-text{
+    font-size: 0.8em;
+}
