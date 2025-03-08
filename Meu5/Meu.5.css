@@ -1,0 +1,40 @@
+#background{
+    background-image: url('Fondo.jpeg');
+    background-size: cover;
+}
+
+#back{
+    background-color: rgb(180, 153, 153);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    font-size: 20px;
+    width: 130px;
+    font-family: "Sigmar", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    margin: 100px;
+}
+
+#back:hover{
+    background-color: rgb(131, 123, 127); 
+}
+
+#back:active{
+    transform: translateY(2px); 
+}
+
+#title{
+    margin-top: 400px;
+    color: rgb(0, 0, 0);
+    font-family: "Sigmar", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+#text{
+    font-family: "Sigmar", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    margin-top: 20px;
+    color: rgb(161, 52, 52);
+}
