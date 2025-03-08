@@ -1,0 +1,103 @@
+#background{
+    background-image: url('/Icons/Fondo.png');
+    background-size: cover;
+}
+
+#background2{
+    background-color: rgb(134, 115, 128);
+    margin-top: 250px;
+    width: 500px;
+    height: 100px;
+    border-radius: 10px;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+#title{
+    margin-top:   20px;
+    color: white;
+    font-family: "Sigmar", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+#forward{
+    background-color: rgb(180, 153, 153);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    width: 130px;
+    font-family: "Sigmar", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    margin: 10px;
+}
+
+#back{
+    background-color: rgb(180, 153, 153);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    font-size: 20px;
+    width: 130px;
+    font-family: "Sigmar", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    margin: 10px;
+}
+
+#back:hover{
+    background-color: rgb(131, 123, 127); 
+}
+
+#back:active{
+    transform: translateY(2px); 
+}
+
+#forward:hover{
+    background-color: rgb(131, 123, 127); 
+}
+
+#forward:active{
+    transform: translateY(2px); 
+}
+
+#bottom{
+    margin-top: 10px;
+}
+
+.music-player {
+    margin-top: 20px;
+    
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    font-family: "Sigmar", sans-serif;
+}
+
+.music-player button {
+    background-color: rgb(180, 153, 153);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.music-player button:hover {
+    background-color: rgb(131, 123, 127);
+}
+
+#current-time, #duration {
+    margin-top: 10px;
+}
+
+#current-time {
+    color: rgb(0, 0, 0);
+    margin: 10px;
+}
+
+#duration {
+    color: rgb(0, 0, 0);
+    margin: 10px;
+}
