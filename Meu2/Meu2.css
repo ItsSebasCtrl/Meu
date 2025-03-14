@@ -81,6 +81,25 @@
         background-image: url(FondoTelefono.jpg)
     }
 
+    #background2{
+    background-color: rgb(134, 115, 128);
+    margin-top: 80px;
+    width: 300px;
+    height: 600px;
+    border-radius: 10px;
+    border: 5px solid rgb(0, 0, 0);
+    }
+
+    #text{
+        font-style: italic;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        margin-top: 40px;
+        color: white;
+        text-align: center;
+        line-height: 40px;
+        font-size: 8px;
+    }
+
 }
 
 @media (min-width: 601px) {
@@ -90,5 +109,5 @@
         background-size: cover;
     }
 
-}
+}   
 
