@@ -106,7 +106,7 @@
         color: white;
         text-align: center;
         line-height: 30px;
-        font-size: 8px;
+        font-size: 10px;
     }
 
     #text2{
@@ -142,6 +142,10 @@
         font-weight: 100;
         font-style: normal;
         margin: 10px;
+    }
+
+    #bottom{
+        margin-top: 10px;
     }
 
 }
