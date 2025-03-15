@@ -109,6 +109,16 @@
         font-size: 8px;
     }
 
+    #text2{
+        font-style: italic;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        margin-top: 20px;
+        color: white;
+        text-align: center;
+        line-height: 40px;
+        font-size: 10px;
+    }
+
     #back{
         background-color: rgb(180, 153, 153);
         color: rgb(255, 255, 255);
