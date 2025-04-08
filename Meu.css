@@ -31,6 +31,19 @@
     font-style: normal;
 }
 
-body{
-    background-image: url(Fondo.jpeg);
+@media (max-width: 600px) {
+
+    body{
+        background-image: url(FondoTelefono.jpg)
+    }
+
+}
+
+@media (min-width: 601px) {
+
+    body{
+        background-image: url(Fondo.jpeg);
+        background-size: cover;
+    }
+
 }
