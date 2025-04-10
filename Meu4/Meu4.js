@@ -22,6 +22,10 @@ document.getElementById('fourth').addEventListener('click', function() {
     window.location.href = "https://itssebasctrl.github.io/Meu/Sentimientos/Sentimiento-4/Sentimiento4.html";
 });
 
+document.getElementById('fourth').addEventListener('click', function() {
+    window.location.href = "https://itssebasctrl.github.io/Meu/Sentimientos/Sentimiento-5/Sentimiento5.html";
+});
+
 document.getElementById('cloudybutton').addEventListener('click', function() {
     window.location.href = "https://itssebasctrl.github.io/Meu/Secreto/Secreto.html";
 });
