@@ -60,7 +60,7 @@
     font-style: normal;
 }
 
-#first{
+#fifth{
     margin: 100px;
     font-family: "Sigmar", sans-serif;
     font-weight: 100;
@@ -73,15 +73,15 @@
     background-color: rgb(134, 115, 128);
 }
 
-#first:hover{
+#fifth:hover{
     background-color: rgb(131, 123, 127); 
 }
 
-#first:active{
+#fifth:active{
     transform: translateY(2px); 
 }
 
-#second{
+#sixth{
     margin: 100px;
     font-family: "Sigmar", sans-serif;
     font-weight: 100;
@@ -94,63 +94,17 @@
     background-color: rgb(134, 115, 128);
 }
 
-#second:hover{
+#sixth:hover{
     background-color: rgb(131, 123, 127); 
 }
 
-#second:active{
+#sixth:active{
     transform: translateY(2px); 
-}
-
-#third{
-    margin: 100px;
-    font-family: "Sigmar", sans-serif;
-    font-weight: 100;
-    font-style: normal;
-    border-radius: 10px;
-    margin-top: 60px;
-    color: rgb(255, 255, 255);
-    text-align: center;
-    line-height: 40px;
-    background-color: rgb(134, 115, 128);
-}
-
-#third:hover{
-    background-color: rgb(131, 123, 127); 
-}
-
-#third:active{
-    transform: translateY(2px); 
-}
-
-#fourth{
-    margin: 100px;
-    font-family: "Sigmar", sans-serif;
-    font-weight: 100;
-    font-style: normal;
-    border-radius: 10px;
-    margin-top: 60px;
-    color: rgb(255, 255, 255);
-    text-align: center;
-    line-height: 40px;
-    background-color: rgb(134, 115, 128);
-}
-
-#fourth:hover{
-    background-color: rgb(131, 123, 127); 
-}
-
-#fourth:active{
-    transform: translateY(2px); 
-}
-
-#bottom{
-    margin-top: 10px;
 }
 
 #cloudy{
     width: 200px;
-    margin-top: -80px;
+    margin-top: 10px;
 }
 
 #cloudybutton{
