@@ -38,23 +38,3 @@
     margin-top: 20px;
     color: rgb(161, 52, 52);
 }
-
-#forward{
-    background-color: rgb(180, 153, 153);
-    border-radius: 10px;
-    color: rgb(255, 255, 255);
-    font-size: 20px;
-    width: 130px;
-    font-family: "Sigmar", sans-serif;
-    font-weight: 100;
-    font-style: normal;
-    margin: 10px;
-}
-
-#forward:hover{
-    background-color: rgb(131, 123, 127); 
-}
-
-#forward:active{
-    transform: translateY(2px); 
-}
