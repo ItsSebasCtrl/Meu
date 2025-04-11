@@ -15,5 +15,5 @@ document.getElementById('sixth').addEventListener('click', function() {
 });
 
 document.getElementById('cloudybutton').addEventListener('click', function() {
-    window.location.href = "https://itssebasctrl.github.io/Meu/Sentimientos/Sentimiento-6/Sentimiento6.html";
+    window.location.href = "https://itssebasctrl.github.io/Meu/Meu5/Forever/Forever.html";
 });
