@@ -13,3 +13,7 @@ document.getElementById('fifth').addEventListener('click', function() {
 document.getElementById('sixth').addEventListener('click', function() {
     window.location.href = "https://itssebasctrl.github.io/Meu/Sentimientos/Sentimiento-6/Sentimiento6.html";
 });
+
+document.getElementById('cloudybutton').addEventListener('click', function() {
+    window.location.href = "https://itssebasctrl.github.io/Meu/Sentimientos/Sentimiento-6/Sentimiento6.html";
+});
